@@ -10,7 +10,7 @@ Everyone asks for Prerequisites when starting in security, so let's get to it fi
 If you're reading this and don't understand a term or an acronym try your best to google it, coz there **will** be a lot of googling when you get into security.
 {% endhint %}
 
-#### Do I need to know programming/coding?
+### Do I need to know programming/coding?
 
 No matter how much you avoid it you'll end up writing scripts, it may either be modifying existing scripting tools or making your own. But as you are just starting out you won't be doing it that much at the beginning.
 
@@ -18,7 +18,7 @@ But the ability to read code will be very helpful at the start, you should also 
 
 ![](.gitbook/assets/prog.png)
 
-#### Do I need to use Kali Linux? Can I use Windows?
+### Do I need to use Kali Linux? Can I use Windows?
 
 To be frank, any Linux Distro will do the job, Kali gets all the tools required for pentesting pre-installed which makes it a bit easier. 
 
@@ -26,17 +26,21 @@ You can use windows for pentesting, but its hard to use some tools so I would re
 
 As for me, I use Kali Linux as my main machine which is a pretty dumb move from my side but I invested too much time in it now to switch.
 
-**Do I need to learn Computer Networking?**
+### **Do I need to learn Computer Networking?**
 
 You need to know the basics of it and most terms in it. You can try learn it from different books or try to learn it from pentesting writeups.
 
 For books I would recommend Comptia Network+ but it gets a bit boring without any practical application, so I would recommend to learn it through pentesting.
 
-### What I would recommend you to do 
+## What I would recommend you to do 
 
 
 
 ### Now for where to actually practice
+
+* [OverTheWire](https://overthewire.org/wargames/)
+
+  You can learn a lot of basic to intermediate stuff here from Linux to Web Application Security
 
 * [TryHackMe](https://tryhackme.com)
 
@@ -57,6 +61,8 @@ For books I would recommend Comptia Network+ but it gets a bit boring without an
 * [OSPG](https://portal.offensive-security.com)
 
   This one is purely penetration testing and has very good and interesting machines.
+
+When practicing in any of the above sites do not hesitate to look at solutions because you're in the learning phase, you don't know a lot of stuff in the begnning, learn from the solutions and note them down.
 
 ### How to keep-up in the security world
 
