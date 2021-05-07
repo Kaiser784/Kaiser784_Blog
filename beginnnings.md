@@ -149,7 +149,7 @@ When practicing in any of the above sites do not hesitate to look at solutions b
 
 ### How to keep up in the security world
 
-Twitter, Reddit, and YouTube play a huge role in keeping up with everything going on currently in the community. LinkedIn is a bit stagnant but it's pretty helpful in following what the security companies are aredoing.
+Twitter, Reddit, and YouTube play a huge role in keeping up with everything going on currently in the community. LinkedIn is a bit stagnant but it's pretty helpful in following what the security companies are doing.
 
 Keeping up in this community is pretty vital so make sure you're up-to-date with whatever is going on.
 
