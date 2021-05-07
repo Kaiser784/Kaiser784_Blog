@@ -147,7 +147,7 @@ I tried not to repeat people from YouTube in Twitter, so that I can mention more
 
 ### Certifications and Exams
 
-Security certifications are really costly so you have to be pretty careful and well prepared while taking them. They range from $299 - you can't ever afford, so be careful when you choose what to get certified for.
+Security certifications are really expensive so you have to be pretty careful and well prepared while taking them. They range from $299 - you can't ever afford, so be careful when you choose what to get certified for.
 
 The Offensive Security certifications are quite good and are respected in the community,  elearnsecurity  ones are really good too. This is how I would recommend you to go through for certifications. I highly suggest not to take the OSCP until you've explored atleast 2 years in this field.
 
@@ -173,7 +173,7 @@ Try to practice daily in TryHackMe because if you lose touch it's gonna be prett
 
 After getting familiar with most of the TryHackMe labs take the [INE starterpass](https://ine.com/) which contains the course content and labs for eJPT for free and when you think you've prepared enough you can take the eJPT exam and get your first certification and then start preparing for OSCP.
 
-After that I'm pretty sure you would have a pretty string foothold to decide what to do from that point on.
+After that I'm pretty sure you would have a pretty strong foothold to decide what to do from that point on.
 
 
 
