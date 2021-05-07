@@ -36,33 +36,58 @@ For books, I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/fi
 
 {% tabs %}
 {% tab title=" Crypto" %}
-I don't think I need to explain 
+#### Cryptography
+
+I don't think I need to explain it's encrypting stuff but oh boy believe when I say it's pretty hard and interesting. There's a ton of things you can actually encrypt not just text.
+
+The math maybe a bit scary at first but the undertsanding of basic principles used to implement it will help you crack it.
 {% endtab %}
 
 {% tab title="Rev Eng" %}
+#### Reverse Engineering
 
+It is converting compiled/machine code back to a more human readable format to understand the functionality of a given program and if possible find ways to exploit it.
+
+It mostly includes Assembly/Machine code, compiled C programs.
 {% endtab %}
 
 {% tab title="Forensics" %}
+#### Forensics
 
+It is recovering the digital trail left on a computer for finding clues of a footprint left by a malicious hacker or someone who tried to seemingly delete data or send it somewhere else.
+
+It includes file format analysis, steganography, memory dump analysis, or network packet capture analysis. It's not exactly hacking but chasing after the hacker or searching for clues to hack something.
 {% endtab %}
 
 {% tab title="OSINT" %}
-
+#### OSINT \(Open Source INTelligence\)
 {% endtab %}
 
 {% tab title="Web" %}
+#### Web Exploitation
 
+It is exactly what is sounds like, exploiting websites or application on the internet. These are pretty common in real world and have bug bounty programs hosted to find vulnerabilities.
+
+Some pretty big bug bounty programs
+
+* [Bugcrowd](https://www.bugcrowd.com/)
+* [HackerOne](https://www.hackerone.com/)
+* [Intigriti](https://www.intigriti.com/)
+* [Synack](https://www.synack.com/) \(This one is private but covers more more than just web\)
+
+Some companies have their own private bug bounty programs on their sites, you can check them out directly too.
 {% endtab %}
 
 {% tab title="Pwn" %}
+#### Binary Exploitation
 
+**Interesting Fact** : It is called pwning instead of owning because of a typo by a game developer in WarCraft and it stuck.
 {% endtab %}
 {% endtabs %}
 
-#### Pentesting
+#### Pentesting 
 
-It's short for Penetration Testing 
+It's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one topic, different machnes and labs choose to focus on different kinds of vulnerabilities and exploits of different softwares and systems.
 
 ### Now for where to actually practice
 
