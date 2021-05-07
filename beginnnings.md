@@ -4,17 +4,17 @@ description: How to enter the Security field or more appropriately How to start 
 
 # Ingress
 
-Everyone asks for Prerequisites when starting in security, so let's get to it first.
-
 {% hint style="info" %}
 If you're reading this and don't understand a term or an acronym try your best to google it, coz there **will** be a lot of googling when you get into security.
 {% endhint %}
+
+Everyone asks for Prerequisites when starting in security, so let's get to it first.
 
 ### Do I need to know programming/coding?
 
 No matter how much you avoid it you'll end up writing scripts, it may either be modifying existing scripting tools or making your own. But as you are just starting out you won't be doing it that much at the beginning.
 
-But the ability to read code will be very helpful at the start, you should also be able to adapt to different programming languages. The major ones I would recommend you to look over would be `Python, Ruby, Bash, C/C+` , in no way I mean to become an expert in these languages before you start but have a basic understanding of how they work. The amount of code you'll be looking at for exploits and vulnerabilities while pentesting, you'll pretty much learn it from there.
+But the ability to read code will be very helpful at the start, you should also be able to adapt to different programming languages. The major ones I would recommend you to look over would be `Python, Ruby, Bash, C/C++` , in no way I mean to become an expert in these languages before you start, but have a basic understanding of how they work. The amount of code you'll be looking at for exploits and vulnerabilities while pentesting, you'll pretty much learn it from there.
 
 ![](.gitbook/assets/prog.png)
 
@@ -22,15 +22,15 @@ But the ability to read code will be very helpful at the start, you should also 
 
 To be frank, any Linux Distro will do the job, Kali gets all the tools required for pentesting pre-installed which makes it a bit easier. For starters try Ubuntu and get familiar with it.
 
-You can use windows for pentesting, but its hard to use some tools so I would recommend to either use WSL\(Windows Subsystem for Linux\) or a VM\(Virtual machine\). If you're feeling adventurous you can dual-boot your system but I highly recommend not to do it without someone to help you with it.
+You can use windows for pentesting, but it's hard to use some tools so I would recommend either using WSL\(Windows Subsystem for Linux\) or a VM\(Virtual machine\). If you're feeling adventurous you can dual-boot your system but I highly recommend not to do it without someone to help you with it.
 
 As for me, I use Kali Linux as my main machine which is a pretty dumb move from my side but I invested too much time in it now to switch.
 
 ### **Do I need to learn Computer Networking?**
 
-You need to know the basics of it and most terms in it. You can try learn it from different books or try to learn it from pentesting writeups.
+You need to know the basics of it and most terms in it. You can try and learn it from different books or try to learn it from pentesting writeups.
 
-For books I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/files/Network+.pdf) but it gets a bit boring without any practical application, so I would recommend to learn it through pentesting. When I say pentesting I don't mean real world pentesting but in solving machines and challenges in practice sites.
+For books, I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/files/Network+.pdf) but it gets a bit boring without any practical application, so I would recommend learning it through pentesting. When I say pentesting I don't mean real-world pentesting but in solving machines and challenges in practice sites.
 
 ### What does hacking contain? Is it just "I'm in" as the movies say?
 
@@ -58,11 +58,11 @@ For books I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/fil
 {% tab title="Pwn" %}
 
 {% endtab %}
-
-{% tab title="Pentesting" %}
-
-{% endtab %}
 {% endtabs %}
+
+#### Pentesting
+
+It's short for Penetration Testing 
 
 ### Now for where to actually practice
 
@@ -72,7 +72,7 @@ For books I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/fil
 
 * [TryHackMe](https://tryhackme.com)
 
-  This is the most beginner friendly site, it has a lot of resources to learn from and experiment on legally.
+  This is the most beginner-friendly site, it has a lot of resources to learn from and experiment on legally.
 
 * [picoCTF](https://picoctf.org/)
 
@@ -84,7 +84,7 @@ For books I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/fil
 
 * [HackTheBox](https://app.hackthebox.eu)
 
-  This one's a pretty hardcore site, I would highly suggest beginners to steer clear of this site until you think you're atleast an intermediate level.
+  This one's a pretty hardcore site, I would highly suggest beginners steer clear of this site until you think you're at least an intermediate level.
 
 * [OSPG](https://portal.offensive-security.com)
 
@@ -92,9 +92,9 @@ For books I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/fil
 
 When practicing in any of the above sites do not hesitate to look at solutions because you're in the learning phase, you don't know a lot of stuff in the beginning, learn from the solutions and note them down.
 
-### How to keep-up in the security world
+### How to keep up in the security world
 
-Twitter, Reddit and YouTube play a huge role in keeping up with everything going on currently in the community. LinkedIn is a bit stagnant but its pretty helpful in following what are security companies doing.
+Twitter, Reddit, and YouTube play a huge role in keeping up with everything going on currently in the community. LinkedIn is a bit stagnant but it's pretty helpful in following what are security companies doing.
 
 Keeping up in this community is pretty vital so make sure you're up-to-date with whatever is going on.
 
@@ -143,19 +143,19 @@ Here are some profiles you can follow to start off you can find other good ones 
 {% endtab %}
 {% endtabs %}
 
-I tried not to repeat people from YouTube in Twitter, so that I can mention more people. Do follow their YouTube, Twitter and LinkedIn, coz remember this always **`More Information is always Good`**.
+I tried not to repeat people from YouTube on Twitter so that I can mention more people. Do follow their YouTube, Twitter, and LinkedIn, coz remember this always **`More Information is always Good`**.
 
 ### Certifications and Exams
 
-Security certifications are really expensive so you have to be pretty careful and well prepared while taking them. They range from $199 - you can't ever afford, so be careful when you choose what to get certified for.
+Security certifications are really expensive so you have to be pretty careful and well prepared while taking them. They range from $199 - you can't ever afford them, so be careful when you choose what to get certified for.
 
 The Offensive Security certifications are quite good and are respected in the community,  elearnsecurity ones are really good too. This is how I would recommend you to go through for certifications. 
 
 ![](.gitbook/assets/exam.png)
 
-I highly suggest not to take the OSCP until you've explored atleast 2 years in this field.
+I highly suggest not to take the OSCP until you've explored at least 2 years in this field.
 
-Use this [OSCP prep guide](https://blog.adithyanak.com/oscp-preparation-guide) if you're preparing for eJPT, eCPPTv2 and OSCP. After OSCP you'll be in this field for enough time to know what to do next.
+Use this [OSCP prep guide](https://blog.adithyanak.com/oscp-preparation-guide) if you're preparing for eJPT, eCPPTv2, and OSCP. After OSCP you'll be in this field for enough time to know what to do next.
 
 {% hint style="danger" %}
 Whatever you do, do not pay for the CEH exam. It's better to study the content for the CEH practical exam. It's pretty costly and expires after 3 years, you can rather use the money for other certifications.
@@ -163,9 +163,9 @@ Whatever you do, do not pay for the CEH exam. It's better to study the content f
 
 ## What I would recommend you to do 
 
-Before diving in directly I would recommend you to get familiar with  common terms and tools used through [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) and [Hacksplaining](https://www.hacksplaining.com/lessons). Watch some videos of [JohnHammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) and [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) and then dive into the practice sites mentioned above.
+Before diving in, I would recommend you to get familiar with common terms and tools used through [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) and [Hacksplaining](https://www.hacksplaining.com/lessons). Watch some videos of [JohnHammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) and [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) and then dive into the practice sites mentioned above.
 
-You'll be navigating through a lot if linux systems because even though it's not a very widely used desktop OS, 95% of the web use some kind of Linux OS for their servers.
+You'll be navigating through a lot of Linux systems because even though it's not a very widely used desktop OS, 95% of the web use some kind of Linux OS for their servers.
 
 So get yourself as familiar as possible with Linux, it'll be pretty different from windows at the start and a bit annoying and hard to use for someone who never used it but trust me you'll start loving and enjoying it more than windows unless you're a hardcore gamer \(steam is trying to make gaming possible for Linux gonna take some time tho\).
 
@@ -173,13 +173,13 @@ So get yourself as familiar as possible with Linux, it'll be pretty different fr
 
 Try to practice daily in TryHackMe because if you lose touch it's gonna be pretty bad in a beginner phase, be as consecutive as possible.
 
-After getting familiar with most of the TryHackMe labs take the [INE starterpass](https://ine.com/) which contains the course content and labs for eJPT for free and when you think you've prepared enough you can take the eJPT exam and get your first certification and then start preparing for OSCP.
+After getting familiar with most of the TryHackMe labs take the [INE starter pass](https://ine.com/) which contains the course content and labs for eJPT for free and when you think you've prepared enough you can take the eJPT exam and get your first certification and then start preparing for OSCP.
 
-After that I'm pretty sure you would have a pretty strong foothold to decide what to do from that point on.
+After that, I'm pretty sure you would have a pretty strong foothold to decide what to do from that point on.
 
 
 
-I made this Blog because when I started out there were not many people who could have helped me or guided me and I made this in a way such that it answers most of my questions I had when I started out.
+I made this blog because when I started there were not many people who could have helped me or guided me and I made this in a way such that it answers most of my questions I had when I started.
 
 Best of luck on this journey, young padawan. **`Hack The Planet`.**
 
