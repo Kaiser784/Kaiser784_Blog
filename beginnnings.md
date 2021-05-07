@@ -36,7 +36,7 @@ For books, I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/fi
 
 {% tabs %}
 {% tab title=" Crypto" %}
-
+I don't think I need to explain 
 {% endtab %}
 
 {% tab title="Rev Eng" %}
@@ -89,6 +89,10 @@ It's short for Penetration Testing
 * [OSPG](https://portal.offensive-security.com)
 
   This one is purely penetration testing and has very good and interesting machines.
+
+* [CTFtime](https://ctftime.org/)
+
+  This website is not exactly a site for practice but keeps track of all ongoing live CTF's so that you can participate them at your convenience.
 
 When practicing in any of the above sites do not hesitate to look at solutions because you're in the learning phase, you don't know a lot of stuff in the beginning, learn from the solutions and note them down.
 
@@ -151,17 +155,19 @@ Security certifications are really expensive so you have to be pretty careful an
 
 The Offensive Security certifications are quite good and are respected in the community,  elearnsecurity ones are really good too. This is how I would recommend you to go through for certifications. 
 
-![](.gitbook/assets/exam.png)
+![](.gitbook/assets/exam.jpg)
 
 I highly suggest not to take the OSCP until you've explored at least 2 years in this field.
 
 Use this [OSCP prep guide](https://blog.adithyanak.com/oscp-preparation-guide) if you're preparing for eJPT, eCPPTv2, and OSCP. After OSCP you'll be in this field for enough time to know what to do next.
 
 {% hint style="danger" %}
-Whatever you do, do not pay for the CEH exam. It's better to study the content for the CEH practical exam. It's pretty costly and expires after 3 years, you can rather use the money for other certifications.
+Do not waste money on certifications that are valid for only 2-3 years or ones with MCQ's. Apply for ones which have a practical exam.
 {% endhint %}
 
 ## What I would recommend you to do 
+
+First and foremost I would tell you to read the [Hacker Manifesto](http://phrack.org/issues/7/3.html) and then start the journey.
 
 Before diving in, I would recommend you to get familiar with common terms and tools used through [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) and [Hacksplaining](https://www.hacksplaining.com/lessons). Watch some videos of [JohnHammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) and [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) and then dive into the practice sites mentioned above.
 
@@ -183,5 +189,5 @@ I made this blog because when I started there were not many people who could hav
 
 Best of luck on this journey, young padawan. **`Hack The Planet`.**
 
-If you would like to ping me for anything feel free to reach me out on my social media  [LinkedIn](https://www.linkedin.com/in/paul-kadali/), [GitHub](https://github.com/Kaiser784), [Twitter](https://twitter.com/paul_kadali)
+If you would like to ping me for anything, feel free to reach me out on my social media  [LinkedIn](https://www.linkedin.com/in/paul-kadali/), [GitHub](https://github.com/Kaiser784), [Twitter](https://twitter.com/paul_kadali)
 
