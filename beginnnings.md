@@ -20,7 +20,7 @@ But the ability to read code will be very helpful at the start, you should also 
 
 ### Do I need to use Kali Linux? Can I use Windows?
 
-To be frank, any Linux Distro will do the job, Kali gets all the tools required for pentesting pre-installed which makes it a bit easier. 
+To be frank, any Linux Distro will do the job, Kali gets all the tools required for pentesting pre-installed which makes it a bit easier. For starters try Ubuntu and get familiar with it.
 
 You can use windows for pentesting, but its hard to use some tools so I would recommend to either use WSL\(Windows Subsystem for Linux\) or a VM\(Virtual machine\). If you're feeling adventurous you can dual-boot your system but I highly recommend not to do it without someone to help you with it.
 
@@ -147,16 +147,18 @@ I tried not to repeat people from YouTube in Twitter, so that I can mention more
 
 ### Certifications and Exams
 
-Security certifications are really expensive so you have to be pretty careful and well prepared while taking them. They range from $299 - you can't ever afford, so be careful when you choose what to get certified for.
+Security certifications are really expensive so you have to be pretty careful and well prepared while taking them. They range from $199 - you can't ever afford, so be careful when you choose what to get certified for.
 
-The Offensive Security certifications are quite good and are respected in the community,  elearnsecurity  ones are really good too. This is how I would recommend you to go through for certifications. I highly suggest not to take the OSCP until you've explored atleast 2 years in this field.
+The Offensive Security certifications are quite good and are respected in the community,  elearnsecurity ones are really good too. This is how I would recommend you to go through for certifications. 
 
 ![](.gitbook/assets/exam.png)
 
-I would recommend you look through this [OSCP prep guide](https://blog.adithyanak.com/oscp-preparation-guide) if you're preparing for eJPT, eCPPTv2 and OSCP. After OSCP you'll be in this field for enough time to know what to do next.
+I highly suggest not to take the OSCP until you've explored atleast 2 years in this field.
+
+Use this [OSCP prep guide](https://blog.adithyanak.com/oscp-preparation-guide) if you're preparing for eJPT, eCPPTv2 and OSCP. After OSCP you'll be in this field for enough time to know what to do next.
 
 {% hint style="danger" %}
-Whatever you do, do not pay for the CEH exam. You can read the content for the CEH practical exam but do not, I cannot stress this enough but do not take it. Some companies may require it but still don't. It's a waste of money which you can use for better certifications.
+Whatever you do, do not pay for the CEH exam. It's better to study the content for the CEH practical exam. It's pretty costly and expires after 3 years, you can rather use the money for other certifications.
 {% endhint %}
 
 ## What I would recommend you to do 
@@ -181,5 +183,5 @@ I made this Blog because when I started out there were not many people who could
 
 Best of luck on this journey, young padawan. **`Hack The Planet`.**
 
-If you would like to ping me for anything feel free to on my social media  [LinkedIn](https://www.linkedin.com/in/paul-kadali/), [GitHub](https://github.com/Kaiser784), [Twitter](https://twitter.com/paul_kadali)
+If you would like to ping me for anything feel free to reach me out on my social media  [LinkedIn](https://www.linkedin.com/in/paul-kadali/), [GitHub](https://github.com/Kaiser784), [Twitter](https://twitter.com/paul_kadali)
 
