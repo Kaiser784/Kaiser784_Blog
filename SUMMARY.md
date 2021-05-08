@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [whoami](README.md)
+* [Ingress](beginnnings.md)
 
