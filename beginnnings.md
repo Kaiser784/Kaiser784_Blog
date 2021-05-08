@@ -111,7 +111,7 @@ This is a pretty broad topic which in short can be explained as finding a vulner
 
 I didn't mention Hardware, Mobile and IoT, coz I didn't do much of anything over there.
 
-#### Pentesting 
+#### Pentesting
 
 It's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one single topic, different machines and labs choose to focus on different kinds of vulnerabilities and exploits of different software's and systems.
 
@@ -149,7 +149,7 @@ When practicing in any of the above sites do not hesitate to look at solutions b
 
 ### How to keep up in the security world
 
-Twitter, Reddit, and YouTube play a huge role in keeping up with everything going on currently in the community. LinkedIn is a bit stagnant but it's pretty helpful in following what the security companies are aredoing.
+Twitter, Reddit, and YouTube play a huge role in keeping up with everything going on currently in the community. LinkedIn is a bit stagnant but it's pretty helpful in following what the security companies are doing.
 
 Keeping up in this community is pretty vital so make sure you're up-to-date with whatever is going on.
 
@@ -231,7 +231,7 @@ Do not just watch the courses or only study from guides, use it practically on t
 
 Security certifications are really expensive so you have to be pretty careful and well prepared while taking them. They range from $199 - you can't ever afford them, so be careful when you choose what to get certified for.
 
-The Offensive Security certifications are quite good and are respected in the community,  elearnsecurity ones are really good too. This is how I would recommend you to go through for certifications. 
+The Offensive Security certifications are quite good and are respected in the community, elearnsecurity ones are really good too. This is how I would recommend you to go through for certifications.
 
 ![](.gitbook/assets/exam.jpg)
 
@@ -243,7 +243,7 @@ Use this [OSCP prep guide](https://blog.adithyanak.com/oscp-preparation-guide) i
 Do not waste money on certifications that are valid for only 2-3 years or ones with MCQ's. Apply for ones which have a practical exam.
 {% endhint %}
 
-## What I would recommend you to do 
+## What I would recommend you to do
 
 First and foremost I would tell you to read the [Hacker Manifesto](http://phrack.org/issues/7/3.html) and then start the journey.
 
@@ -261,11 +261,9 @@ After getting familiar with most of the TryHackMe labs take the [INE starter pas
 
 After that, I'm pretty sure you would have a pretty strong foothold to decide what to do from that point on.
 
-
-
 I made this blog because when I started there were not many people who could have helped me or guided me and I made this in a way such that it answers most of my questions I had when I started.
 
 May the source be with you in this journey, young padawan. **`Hack The Planet`.**
 
-If you would like to ping me for anything, feel free to reach me out on my social media  [LinkedIn](https://www.linkedin.com/in/paul-kadali/), [GitHub](https://github.com/Kaiser784), [Twitter](https://twitter.com/paul_kadali)
+If you would like to ping me for anything, feel free to reach me out on my social media [LinkedIn](https://www.linkedin.com/in/paul-kadali/), [GitHub](https://github.com/Kaiser784), [Twitter](https://twitter.com/paul_kadali)
 
