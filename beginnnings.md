@@ -12,7 +12,7 @@ Everyone asks for prerequisites when starting in Security, so let's get to it fi
 
 ### Do I need to know programming/coding?
 
-No matter how much you avoid it you'll end up writing scripts, it may either be modifying existing scripting tools or making your own. But as you are just starting out you won't be doing it that much at the beginning.
+No matter how much you avoid it you'll end up writing scripts, it may either be modifying existing scripting tools or making your own. But as you are just starting you won't be doing it that much at the beginning.
 
 But the ability to read code will be very helpful at the start, you should also be able to adapt to different programming languages. The major ones I would recommend you to look over would be `Python, Ruby, Bash, C/C++` , in no way I mean to become an expert in these languages before you start, but have a basic understanding of how they work. The amount of code you'll be looking at for exploits and vulnerabilities while pentesting, you'll pretty much learn it from there. If you're willing to learn from tutorials any YouTube channel that you can understand the best is more than enough because they all explain most of the same things but in different ways.
 
@@ -38,7 +38,7 @@ For books, I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/fi
 
 ### What does hacking contain? Is it just "I'm in" as the movies say?
 
-Hacking is much more than "I'm in" but sometimes it boils down to it 😋 . It's a really vast field with different topics and these topics are inter-connected with each other in more than one ways, So its pretty hard to isolate each topic and learn it as they almost always go hand-in-hand. You can read about the major topics you would find in CTF's and pentests below.
+Hacking is much more than "I'm in" but sometimes it boils down to it 😋 . It's a really vast field with different topics and these topics are inter-connected with each other in more than one way, So it's pretty hard to isolate each topic and learn it as they almost always go hand-in-hand. You can read about the major topics you would find in CTF's and pentests below.
 
 {% tabs %}
 {% tab title=" Crypto" %}
@@ -48,13 +48,13 @@ I don't think I need to explain this, it's encrypting stuff but oh boy believe m
 
 I couldn't find a good site fully dedicated to this but [CyberChef](https://gchq.github.io/CyberChef/) is a good site for cryptography in CTF's.
 
-The math maybe a bit scary at first but the understanding of basic principles used to implement it will help you crack it.
+The math may be a bit scary at first but the understanding of basic principles used to implement it will help you crack it.
 {% endtab %}
 
 {% tab title="Rev Eng" %}
 #### Reverse Engineering
 
-This is about converting compiled/machine code back to a more human readable format to understand the functionality of a given program and if possible find ways to exploit it.
+This is about converting compiled/machine code back to a more human-readable format to understand the functionality of a given program and if possible find ways to exploit it.
 
 It mostly includes Assembly/Machine code, compiled C programs. There are specific tools you use to achieve this don't worry you don't have to do it manually. These tools will help you in a lot more other things than just Reverse Engineering.
 
@@ -68,7 +68,7 @@ It is recovering the digital trail left on a computer for finding clues of a foo
 
 It includes file format analysis, steganography, memory dump analysis, or network packet capture analysis. It's not exactly hacking but chasing after the hacker or searching for clues to hack something.
 
-There's not much of a good site I would recommend dedicated for this, explore different challenges and problems in CTF's to understand the wide range covered in this.
+There's not much of a good site I would recommend dedicated to this, explore different challenges and problems in CTF's to understand the wide range covered in this.
 {% endtab %}
 
 {% tab title="OSINT" %}
@@ -76,7 +76,7 @@ There's not much of a good site I would recommend dedicated for this, explore di
 
 OSINT refers to gathering data and information through publicly available sources\(like googling, yup that is also considered as OSINT\). Don't underestimate it just because it is gathering information, a lot of companies and people tend to leave a lot of information publicly than they think and information is power in hacking.
 
-It is pretty important while conducting a real world pentest to properly plan out attack strategies and also in CTF's.
+It is pretty important while conducting a real-world pentest to properly plan out attack strategies and also in CTF's.
 
 [Trace Labs](https://www.tracelabs.org/) is a site dedicated to helping people in real life using OSINT.
 {% endtab %}
@@ -84,7 +84,7 @@ It is pretty important while conducting a real world pentest to properly plan ou
 {% tab title="Web" %}
 #### Web Exploitation
 
-It is exactly what is sounds like, exploiting websites or application on the internet. These are pretty common in real world and have bug bounty programs hosted to find vulnerabilities.
+It is exactly what it sounds like, exploiting websites or applications on the internet. These are pretty common in the real world and have bug bounty programs hosted to find vulnerabilities.
 
 [Web Security Academy](https://portswigger.net/web-security) is a site fully dedicated to learning Web Exploitation.
 
@@ -93,7 +93,7 @@ Some pretty big bug bounty programs
 * [Bugcrowd](https://www.bugcrowd.com/)
 * [HackerOne](https://www.hackerone.com/)
 * [Intigriti](https://www.intigriti.com/)
-* [Synack](https://www.synack.com/) \(This one is private but covers more more than just web\)
+* [Synack](https://www.synack.com/) \(This one is private but covers more than just web\)
 
 Some companies have their own private bug bounty programs on their sites, you can check them out directly too.
 {% endtab %}
@@ -105,7 +105,7 @@ This is a pretty broad topic which in short can be explained as finding a vulner
 
 [pwnable.kr](http://pwnable.kr/) is a site fully dedicated to this.
 
-**Interesting Fact** : It is called pwning instead of owning because of a typo made by a game developer in WarCraft and it stuck.
+**Interesting Fact**: It is called pwning instead of owning because of a typo made by a game developer in WarCraft and it stuck.
 {% endtab %}
 {% endtabs %}
 
@@ -113,7 +113,7 @@ I didn't mention Hardware, Mobile and IoT, coz I didn't do much of anything over
 
 #### Pentesting
 
-It's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one single topic, different machines and labs choose to focus on different kinds of vulnerabilities and exploits of different software's and systems.
+It's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one single topic, different machines and labs choose to focus on different kinds of vulnerabilities and exploits of different softwares and systems.
 
 ### Now for where to actually practice
 
@@ -143,7 +143,7 @@ It's short for Penetration Testing. It includes more or less of everything menti
 
 * [CTFtime](https://ctftime.org/)
 
-  This website is not exactly a site for practice but keeps track of all ongoing live CTF's so that you can participate them at your convenience.
+  This website is not exactly a site for practice but keeps track of all ongoing live CTF's so that you can participate in them at your convenience.
 
 When practicing in any of the above sites do not hesitate to look at solutions because you're in the learning phase, you don't know a lot of stuff in the beginning, learn from the solutions and note them down.
 
@@ -153,7 +153,7 @@ Twitter, Reddit, and YouTube play a huge role in keeping up with everything goin
 
 Keeping up in this community is pretty vital so make sure you're up-to-date with whatever is going on.
 
-Here are some profiles you can follow to start off you can find other good ones through their retweets and mentions.
+Here are some profiles you can follow to start, you can find other good ones through their retweets and mentions.
 
 {% tabs %}
 {% tab title="Youtube" %}
@@ -204,7 +204,7 @@ I tried not to repeat people from YouTube on Twitter so that I can mention more 
 
 A lot of Certification exams you apply for come bundled with a course. There aren't many good courses out there either most of them either feel like scams or are scams.
 
-The courses I would recommend are pretty less, rather than courses I would recommend to read blogs and articles, GitHub repos will be a real huge help if you're looking for some course like modeled content.
+The courses I would recommend are pretty less, rather than courses I would recommend reading blogs and articles, GitHub repos will be a real huge help if you're looking for some course like modeled content.
 
 Here are some good GitHub repos and courses I followed/took.
 
@@ -240,14 +240,14 @@ I highly suggest not to take the OSCP until you've explored at least 2 years in 
 Use this [OSCP prep guide](https://blog.adithyanak.com/oscp-preparation-guide) if you're preparing for eJPT, eCPPTv2, and OSCP. After OSCP you'll be in this field for enough time to know what to do next.
 
 {% hint style="danger" %}
-Do not waste money on certifications that are valid for only 2-3 years or ones with MCQ's. Apply for ones which have a practical exam.
+Do not waste money on certifications that are valid for only 2-3 years or ones with MCQs. Apply for ones that have a practical exam.
 {% endhint %}
 
 ## What I would recommend you to do
 
 First and foremost I would tell you to read the [Hacker Manifesto](http://phrack.org/issues/7/3.html) and then start the journey.
 
-Before diving in, I would recommend you to get familiar with common terms and tools used through [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) and [Hacksplaining](https://www.hacksplaining.com/lessons). Watch some videos of [JohnHammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) and [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) and then dive into the practice sites mentioned above.
+Before diving in, I would recommend you to get familiar with common terms and tools used, through [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) and [Hacksplaining](https://www.hacksplaining.com/lessons). Watch some videos of [JohnHammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) and [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) and then dive into the practice sites mentioned above.
 
 You'll be navigating through a lot of Linux systems because even though it's not a very widely used desktop OS, 95% of the web use some kind of Linux OS for their servers.
 
