@@ -192,6 +192,7 @@ Here are some profiles you can follow to start, you can find other good ones thr
 * [r/cybersecurity](https://www.reddit.com/r/cybersecurity/)
 * [r/hacking](https://www.reddit.com/r/hacking/)
 * [r/bugbounty](https://www.reddit.com/r/bugbounty/)
+* [r/SecurityCreators](https://www.reddit.com/r/SecurityCreators/)
 * [r/oscp](https://www.reddit.com/r/oscp/)
 * [r/securityCTF](https://www.reddit.com/r/securityCTF/)
 * [r/Defcon](https://www.reddit.com/r/Defcon/)
