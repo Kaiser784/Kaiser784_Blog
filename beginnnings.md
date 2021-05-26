@@ -14,7 +14,7 @@ Everyone asks for prerequisites when starting in Security, so let's get to it fi
 
 No matter how much you avoid it you'll end up writing scripts, it may either be modifying existing scripting tools or making your own. But as you are just starting you won't be doing it that much at the beginning.
 
-But the ability to read code will be very helpful at the start, you should also be able to adapt to different programming languages. The major ones I would recommend you to look over would be `Python, Ruby, Bash, C/C++` , in no way I mean to become an expert in these languages before you start, but have a basic understanding of how they work. The amount of code you'll be looking at for exploits and vulnerabilities while pentesting, you'll pretty much learn it from there. If you're willing to learn from tutorials any YouTube channel that you can understand the best is more than enough because they all explain most of the same things but in different ways.
+But the ability to read code will be very helpful at the start, you should also be able to adapt to different programming languages. The major ones I would recommend you to look over would be `Python, Ruby, Bash, C/C++` , in no way I mean to become an expert in these languages before you start, but have a basic understanding of how they work. The amount of code you'll be looking at for exploits and vulnerabilities while pentesting, you'll pretty much learn it from there. If you're willing to learn from tutorials, any YouTube channel that you can understand the best is more than enough because they all explain most of the same things but in different ways.
 
 ![](.gitbook/assets/prog.png)
 
@@ -56,9 +56,9 @@ The math may be a bit scary at first but the understanding of basic principles u
 
 This is about converting compiled/machine code back to a more human-readable format to understand the functionality of a given program and if possible find ways to exploit it.
 
-It mostly includes Assembly/Machine code, compiled C programs. There are specific tools you use to achieve this don't worry you don't have to do it manually. These tools will help you in a lot more other things than just Reverse Engineering.
+It mostly includes Assembly/Machine code, compiled C programs. There are specific tools you use to achieve this, don't worry you don't have to do it manually. These tools will help you in a lot more other things than just Reverse Engineering.
 
-[RevEng101](https://malwareunicorn.org/workshops/re101.html#0) is a site by [MalwareUnicorn](https://twitter.com/malwareunicorn) explore other parts of her site too for more Reverse Engineering stuff.
+[RevEng101](https://malwareunicorn.org/workshops/re101.html#0) is a site by [MalwareUnicorn](https://twitter.com/malwareunicorn), explore other parts of her site too for more Reverse Engineering stuff.
 {% endtab %}
 
 {% tab title="Forensics" %}
@@ -88,7 +88,7 @@ It is exactly what it sounds like, exploiting websites or applications on the in
 
 [Web Security Academy](https://portswigger.net/web-security) is a site fully dedicated to learning Web Exploitation.
 
-Some pretty big bug bounty programs
+Some pretty big bug bounty platforms
 
 * [Bugcrowd](https://www.bugcrowd.com/)
 * [HackerOne](https://www.hackerone.com/)
@@ -113,7 +113,7 @@ I didn't mention Hardware, Mobile and IoT, coz I didn't do much of anything over
 
 #### Pentesting
 
-It's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one single topic, different machines and labs choose to focus on different kinds of vulnerabilities and exploits of different softwares and systems.
+may find in real livulnerabilitiesIt's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one single topic, different machines and labs choose to focus on different kinds of vulnerabilities and exploits of different softwares and systems to replicate the diversity of vulnerabilties you may find in real life.
 
 ### Now for where to actually practice
 
@@ -135,7 +135,7 @@ It's short for Penetration Testing. It includes more or less of everything menti
 
 * [HackTheBox](https://app.hackthebox.eu)
 
-  This one's a pretty hardcore site, I would highly suggest beginners steer clear of this site until you think you're at least an intermediate level.
+  This one's a pretty hardcore site, I would highly suggest beginners steer clear of this site until you think you're at least an intermediate level coz the challenges are pretty hard for beginners and don't wanna chase you away with it \(at least that's what I feel\).
 
 * [OSPG](https://portal.offensive-security.com)
 
@@ -262,7 +262,7 @@ After getting familiar with most of the TryHackMe labs take the [INE starter pas
 
 After that, I'm pretty sure you would have a pretty strong foothold to decide what to do from that point on.
 
-I made this blog because when I started there were not many people who could have helped me or guided me and I made this in a way such that it answers most of my questions I had when I started.
+I made this blog because when I started there were not many people who could have helped me or guided me and I made this in a way such that it answers most of the questions I had when I started.
 
 May the source be with you in this journey, young padawan. **`Hack The Planet`.**
 
