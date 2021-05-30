@@ -262,6 +262,8 @@ After getting familiar with most of the TryHackMe labs take the [INE starter pas
 
 After that, I'm pretty sure you would have a pretty strong foothold to decide what to do from that point on.
 
+## 
+
 I made this blog because when I started there were not many people who could have helped me or guided me and I made this in a way such that it answers most of the questions I had when I started.
 
 May the source be with you in this journey, young padawan. **`Hack The Planet`.**
