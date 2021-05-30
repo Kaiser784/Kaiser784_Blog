@@ -113,7 +113,7 @@ I didn't mention Hardware, Mobile and IoT, coz I didn't do much of anything over
 
 #### Pentesting
 
-may find in real livulnerabilitiesIt's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one single topic, different machines and labs choose to focus on different kinds of vulnerabilities and exploits of different softwares and systems to replicate the diversity of vulnerabilties you may find in real life.
+It's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one single topic, different machines and labs choose to focus on different kinds of vulnerabilities and exploits of different softwares and systems to replicate the diversity of vulnerabilties you may find in real life.
 
 ### Now for where to actually practice
 
