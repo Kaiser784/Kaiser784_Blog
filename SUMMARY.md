@@ -2,5 +2,5 @@
 
 * [whoami](README.md)
 * [Ingress](beginnnings.md)
-* [My eJPT Journey](my-ejpt-journey.md)
+* [My eJPT Journey](ejpt.md)
 
