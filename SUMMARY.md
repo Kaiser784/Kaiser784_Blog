@@ -7,7 +7,7 @@
 
 ---
 
-* [My eJPT Experience](ejpt/README.md)
+* [eJPT](ejpt/README.md)
   * [Cheatsheet/Notes](ejpt/cheatsheet-notes/README.md)
     * [Enumeration](ejpt/cheatsheet-notes/enumeration.md)
     * [Web Attacks](ejpt/cheatsheet-notes/web-attacks.md)
