@@ -12,7 +12,7 @@ You can buy the eJPT Voucher [here](https://elearnsecurity.com/product/ejpt-cert
 
 ## Course Material and Labs
 
-The material is pretty good for beginners but it contains a ton of slides and some videos to show how some tools are sued. I would say the best part were the labs, they have unlimited access time so you can experiment on them try different routes.
+The material is pretty good for beginners but it contains a ton of slides to cover. I would say the best part were the labs, they have unlimited access time so you can experiment on them and try different routes.
 
 Make sure to note the things you performed and update commands in your notes depending on how you use them and understand them.  
 Make sure you get used to the Penetration Test Methodology which will be very useful.
