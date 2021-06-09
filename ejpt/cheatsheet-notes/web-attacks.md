@@ -9,13 +9,15 @@ description: Web application vulns and exploits
 ### Netcat \(for HTTP services\) <a id="netcat-for-http-services"></a>
 
 ```text
-nc -v 10.10.10.10 portHEAD / HTTP/1.0
+nc -v 10.10.10.10 port
+HEAD / HTTP/1.0
 ```
 
 ### OpenSSL \(for HTTPS services\) <a id="openssl-for-https-services"></a>
 
 ```text
-openssl s_client -connect 10.10.10.10:443HEAD / HTTP/1.0
+openssl s_client -connect 10.10.10.10:443
+HEAD / HTTP/1.0
 ```
 
 ### Httprint <a id="httprint"></a>
