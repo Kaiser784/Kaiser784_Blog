@@ -48,5 +48,5 @@ You get 3 whole days to complete the exam which is ample time if you practiced t
 * Understand Routing and Pivoting properly
 * Take breaks, be calm and think practically
 
-
+![My Cert](../.gitbook/assets/paul_babu_kadali_ejpt-1.png)
 
