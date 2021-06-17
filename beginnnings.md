@@ -250,6 +250,8 @@ First and foremost I would tell you to read the [Hacker Manifesto](http://phrack
 
 Before diving in, get familiar with common terms and tools used, through [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) and [Hacksplaining](https://www.hacksplaining.com/lessons). Watch some videos of [JohnHammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) and [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) and then dive into the practice sites mentioned above.
 
+Definitely watch [this video](https://www.youtube.com/watch?v=2TofunAI6fU) of LiveOverflow where he explains why there is no set path in learning about hacking. Everything you do, everything you stumble upon will factor in the larger picture.
+
 You'll be navigating through a lot of Linux systems because even though it's not a very widely used desktop OS, 95% of the web use some kind of Linux OS for their servers.
 
 So get yourself as familiar as possible with Linux, it'll be pretty different from windows at the start and a bit annoying and hard to use for someone who never used it but trust me you'll start loving and enjoying it more than windows unless you're a hardcore gamer \(steam is trying to make gaming possible for Linux gonna take some time tho\).
