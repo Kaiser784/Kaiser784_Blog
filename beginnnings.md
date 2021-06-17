@@ -93,7 +93,7 @@ Some pretty big bug bounty platforms
 * [Bugcrowd](https://www.bugcrowd.com/)
 * [HackerOne](https://www.hackerone.com/)
 * [Intigriti](https://www.intigriti.com/)
-* [Synack](https://www.synack.com/) \(This one is private but covers more than just web\)
+* [Synack](https://www.synack.com/) \(This one is exclusive but covers more than just web exploitation\)
 
 Some companies have their own private bug bounty programs on their sites, you can check them out directly too.
 {% endtab %}
@@ -113,7 +113,7 @@ I didn't mention Hardware, Mobile and IoT, coz I didn't do much of anything over
 
 #### Pentesting
 
-It's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one single topic, different machines and labs choose to focus on different kinds of vulnerabilities and exploits of different softwares and systems to replicate the diversity of vulnerabilties you may find in real life.
+It's short for Penetration Testing. It includes more or less of everything mentioned above and a little bit more. It doesn't fully focus on one single topic, different machines and labs choose to focus on different kinds of vulnerabilities and exploits of different software and systems to replicate the diversity of vulnerabilities you may find in real life.
 
 ### Now for where to actually practice
 
@@ -205,7 +205,7 @@ I tried not to repeat people from YouTube on Twitter so that I can mention more 
 
 A lot of Certification exams you apply for come bundled with a course. There aren't many good courses out there either most of them either feel like scams or are scams.
 
-The courses I would recommend are pretty less, rather than courses I would recommend reading blogs and articles, GitHub repos will be a real huge help if you're looking for some course like modeled content.
+The courses I would recommend are pretty few, rather than courses I would recommend reading blogs and articles, GitHub repos will be a real huge help if you're looking for some course-like modeled content.
 
 Here are some good GitHub repos and courses I followed/took.
 
@@ -230,7 +230,7 @@ Here are some good GitHub repos and courses I followed/took.
 Do not just watch the courses or only study from guides, use it practically on the practice sites simultaneously as you're learning them.
 {% endhint %}
 
-Security certifications are really expensive so you have to be pretty careful and well prepared while taking them. They range from $199 - you can't ever afford them, so be careful when you choose what to get certified for.
+Security certifications are really expensive so you have to be pretty careful and well prepared while taking them. They range from $199 - you can't even afford them, so be careful when you choose what to get certified for.
 
 The Offensive Security certifications are quite good and are respected in the community, elearnsecurity ones are really good too. This is how I would recommend you to go through for certifications.
 
