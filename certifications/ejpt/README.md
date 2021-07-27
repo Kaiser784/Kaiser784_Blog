@@ -32,7 +32,7 @@ I was solving machines and labs on TryHackme and HacktheBox for almost a year no
 
 ## Exam Day
 
-![](../.gitbook/assets/tenor.gif)
+![](../../.gitbook/assets/tenor.gif)
 
 I was pretty nervous before taking the exam as this was my first ever security certification. There is no scheduled time for the exam, it starts when you click the start button. Once you click the button you'll be given a zip to download which consists of the Letter of Engagement and some other necessary files for the pentest. Read the Letter very carefully \(contains the scope of the test and other important stuff\).
 
@@ -48,5 +48,5 @@ You get 3 whole days to complete the exam which is ample time if you practiced t
 * Understand Routing and Pivoting properly
 * Take breaks, be calm and think practically
 
-![My Cert](../.gitbook/assets/paul_babu_kadali_ejpt-1.png)
+![My Cert](../../.gitbook/assets/paul_babu_kadali_ejpt-1.png)
 
