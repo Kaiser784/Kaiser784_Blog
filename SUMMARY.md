@@ -3,9 +3,9 @@
 * [whoami](README.md)
 * [Ingress](beginnnings.md)
 
-## Reverse Engineering
+## API Security
 
-* [Intro](reverse-engineering/intro.md)
+* [Intro](api-security/intro.md)
 
 ## Certifications
 
