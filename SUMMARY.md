@@ -16,3 +16,7 @@
     * [System Attacks](certifications/ejpt/cheatsheet-notes/system-attacks.md)
     * [Network Attacks](certifications/ejpt/cheatsheet-notes/network-attacks.md)
 
+## 120 Days High Frequency
+
+* [Trigger](120-days-high-frequency/trigger.md)
+
