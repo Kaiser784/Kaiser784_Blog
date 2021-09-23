@@ -8,7 +8,7 @@ description: 'Aug 31, 2021 - Present'
 
 Read "First Bug-Bounty" Writeups to get different perspectives on how people tackled at initial points, dealt with dupes and rejections.
 
-Started practicing Golang on [CodeWars](https://www.codewars.com). I used CodeWars because I think it's the only website which matched my vibe of not being Competitive Programming but at the same time exponentially increasing my understanding of a language with each kata. I learnt python the same way from here a year back.
+Started practicing Golang on [CodeWars](https://www.codewars.com). I used CodeWars because I think it's the only website that matched my vibe of not being Competitive Programming but at the same time exponentially increasing my understanding of a language with each kata. I learned python the same way from here a year back.
 
 **Some References**
 
@@ -18,7 +18,7 @@ Started practicing Golang on [CodeWars](https://www.codewars.com). I used CodeWa
 
 ### Day - 2
 
-Only read some writeups about API and Recon couldn't do more due to academic deadlines. Will try to wrap up academic stuff faster so they don't pile up and takeaway time from me.
+Only read some writeups about API and Recon couldn't do more due to academic deadlines. Will try to wrap up academic stuff faster so they don't pile up and take away time from me.
 
 Also decided to take the Dante Pro Lab from HTB which upon completing can be used to bypass synack waitlist, will start working on it from tomorrow.
 
@@ -147,4 +147,55 @@ Got started with using Postman to test API's was checking some of the endpoints 
 Was trying out more features of Postman with the target in the program scope, but couldn't do much other than that.
 
 **Some References**
+
+### Day - 17
+
+Was checking different ways I can test Github Code and GraphQL API.
+
+**Some References**
+
+* [https://www.youtube.com/watch?v=fszVtstHvgE](https://www.youtube.com/watch?v=fszVtstHvgE)
+
+### Day - 18
+
+I realized I was being too ahead of myself and trying to hunt on programs which were kind of out of my league. I decided to try out simple programs which required ID verification to participate so that they'll have a lesser number of people.
+
+I also have to change my methodology, I have been trying to hunt as if it's a machine/challenge on hackthebox where it'll definitely have a bug/vuln.
+
+**Some References**
+
+### Day - 19
+
+Started the windows priv esc course by tib3rius. Gonna get back to Dante after it ends. Checked out the free version on BugBountyhunter.com and tried some of them.
+
+**Some References**
+
+### Day - 20
+
+Made a golang chat server, gonna make some other golang projects form `RedTeam projects` github repo. Hopefully my scripting skills will develop.
+
+**Some References**
+
+### Day - 21
+
+Dante was taken down for maintenance, so decided to read Bug Hunting Methodologies of different people and found Disclosed Report search Engine which made things a lot easier.
+
+**Some References**
+
+* [https://www.bugbountyhunting.com/?](https://www.bugbountyhunting.com/?)
+* [https://infosecwriteups.com/bug-hunting-methodology-for-beginners-20b56f5e7d19](https://infosecwriteups.com/bug-hunting-methodology-for-beginners-20b56f5e7d19)
+
+### Day - 22
+
+Got a bit too into solving dante after watching Tib3rius's Windows priv esc and found a ton of flags, It was pretty good now have to get the double pivot ryt.
+
+**Some References**
+
+### Day - 23
+
+I was trying to double pivot but the rdp was messing it up have to try later. Getting back to Bug Bounty, The styles for my pentesting and hunting are messing up, I have to think like Bug Hunter rather than a pentester.
+
+**Some References**
+
+* [https://www.bugcrowd.com/blog/how-to-succeed-in-bug-bounties-as-a-pentester/](https://www.bugcrowd.com/blog/how-to-succeed-in-bug-bounties-as-a-pentester/)
 
