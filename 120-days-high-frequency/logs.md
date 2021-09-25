@@ -144,7 +144,9 @@ Got started with using Postman to test API's was checking some of the endpoints 
 
 ### Day - 16
 
-Was trying out more features of Postman with the target in the program scope, but couldn't do much other than that.
+**Summary**
+
+Was trying out more features of Postman with the target in the program scope. Read a Research Paper regarding Hardware Security called [Brutus](https://ieeexplore.ieee.org/document/8950094)
 
 **Some References**
 
@@ -198,4 +200,24 @@ I was trying to double pivot but the rdp was messing it up have to try later. Ge
 **Some References**
 
 * [https://www.bugcrowd.com/blog/how-to-succeed-in-bug-bounties-as-a-pentester/](https://www.bugcrowd.com/blog/how-to-succeed-in-bug-bounties-as-a-pentester/)
+
+### Day - 24
+
+I decided to hunt on a program even tho if it takes a month to find the bug and even if it's a duplicate and chose 2 programs to alternate on.
+
+**Some References**
+
+* [https://sm4rty.medium.com/hunting-for-bugs-in-sign-up-register-feature-2021-c47035481212](https://sm4rty.medium.com/hunting-for-bugs-in-sign-up-register-feature-2021-c47035481212)
+* [https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9](https://asterfiester.medium.com/5000-google-idor-vulnerability-writeup-c7b45926abe9)
+* [https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463](https://fardeen-ahmed.medium.com/a-small-change-and-things-go-in-your-hand-story-of-a-250-bounty-5ddc43c31463)
+
+### Day - 25
+
+I came to a stalemate with a Windows priv esc \(god I hate windows\), spent too much time and broke my metasploit, took time to fix it.
+
+Read a research paper on Fault Attack Vulns: [SOLOMON](https://ieeexplore.ieee.org/abstract/document/9116380/) and went on a rabbit hole about its affects in ML
+
+**Some References**
+
+* [https://www.youtube.com/watch?v=UlXZkCbhlFI](https://www.youtube.com/watch?v=UlXZkCbhlFI)
 
