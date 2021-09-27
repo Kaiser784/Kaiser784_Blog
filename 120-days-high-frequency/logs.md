@@ -221,3 +221,21 @@ Read a research paper on Fault Attack Vulns: [SOLOMON](https://ieeexplore.ieee.o
 
 * [https://www.youtube.com/watch?v=UlXZkCbhlFI](https://www.youtube.com/watch?v=UlXZkCbhlFI)
 
+### Day - 26
+
+I had to do BoF for one of the machines on the Network which I never tried before and was looking for ways to avoid it but couldn't find any so had to read upon it will attempt it tmrw.
+
+**Some References**
+
+### Day - 27
+
+Didn't attempt the BoF, was reading different articles to see which approach would be better for me and should I do it on Linux.
+
+**Some References**
+
+### Day - 28
+
+Finally got around to setting up everything needed for BoF got all the files needed to verify and perform it just have to do it but have to postpone this part for uni exams.
+
+**Some References**
+
