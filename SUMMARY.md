@@ -21,3 +21,6 @@
 * [Trigger](120-days-high-frequency/trigger.md)
 * [Logs](120-days-high-frequency/logs.md)
 
+## Writeups
+
+* [OSPG Writeups](https://github.com/Kaiser784/Offsec-Proving-Grounds)
