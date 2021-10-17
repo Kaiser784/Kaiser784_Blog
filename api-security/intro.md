@@ -1,6 +1,4 @@
 # Intro
 
-To be updated very soon. 
-
-
+In production/preparation
 

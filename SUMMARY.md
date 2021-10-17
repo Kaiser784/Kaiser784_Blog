@@ -15,6 +15,7 @@
     * [Web Attacks](certifications/ejpt/cheatsheet-notes/web-attacks.md)
     * [System Attacks](certifications/ejpt/cheatsheet-notes/system-attacks.md)
     * [Network Attacks](certifications/ejpt/cheatsheet-notes/network-attacks.md)
+* [Dante ProLabs (HackTheBox)](certifications/dante-prolabs-hackthebox.md)
 
 ## 120 Days High Frequency
 
