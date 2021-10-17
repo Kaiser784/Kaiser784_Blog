@@ -20,7 +20,7 @@
 ## 120 Days High Frequency
 
 * [Trigger](120-days-high-frequency/trigger.md)
-* [Logs](120-days-high-frequency/logs.md)
+* [Log Arc-1](120-days-high-frequency/logs.md)
 
 ## Writeups
 
