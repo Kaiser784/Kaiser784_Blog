@@ -2,10 +2,10 @@
 
 * [whoami](README.md)
 * [Ingress](beginnnings.md)
-
-## API Security
-
-* [Intro](api-security/intro.md)
+* [API Security/Testing](intro.md)
+* [120 Days High Frequency](trigger/README.md)
+  * [Log-1](trigger/logs.md)
+  * [Log-2](trigger/log-2.md)
 
 ## Certifications
 
@@ -16,12 +16,6 @@
     * [System Attacks](certifications/ejpt/cheatsheet-notes/system-attacks.md)
     * [Network Attacks](certifications/ejpt/cheatsheet-notes/network-attacks.md)
 * [Dante ProLabs (HackTheBox)](certifications/dante-prolabs-hackthebox.md)
-
-## 120 Days High Frequency
-
-* [Trigger](120-days-high-frequency/trigger.md)
-* [Log-1](120-days-high-frequency/logs.md)
-* [Log-2](120-days-high-frequency/log-2.md)
 
 ## Writeups
 
