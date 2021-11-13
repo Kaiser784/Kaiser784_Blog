@@ -22,7 +22,7 @@ But the ability to read code will be very helpful at the start, you should also 
 
 To be frank, any Linux Distro will do the job, Kali gets all the tools required for pentesting pre-installed which makes it a bit easier. For starters try Ubuntu and get familiar with it.
 
-You can use windows for pentesting, but it's hard to use some tools so I would recommend either using WSL\(Windows Subsystem for Linux\) or a VM\(Virtual machine\). If you're feeling adventurous you can dual-boot your system but I highly recommend not to do it without someone to help you with it.
+You can use windows for pentesting, but it's hard to use some tools so I would recommend either using WSL(Windows Subsystem for Linux) or a VM(Virtual machine). If you're feeling adventurous you can dual-boot your system but I highly recommend not to do it without someone to help you with it.
 
 As for me, I use Kali Linux as my main machine which is a pretty dumb move from my side but I invested too much time in it now to switch.
 
@@ -30,7 +30,7 @@ As for me, I use Kali Linux as my main machine which is a pretty dumb move from 
 
 You need to know the basics of it and most terms and what they mean. You can try and learn it from different books or try to learn it from pentesting writeups.
 
-For books, I would recommend [Comptia Network+](http://te.ugm.ac.id/~widyawan/files/Network+.pdf) but it gets a bit boring without any practical application, so I would recommend learning it through pentesting. When I say pentesting I don't mean real-world pentesting but in solving machines and challenges in practice sites.
+For books, I would recommend [Comptia Network+](http://te.ugm.ac.id/\~widyawan/files/Network+.pdf) but it gets a bit boring without any practical application, so I would recommend learning it through pentesting. When I say pentesting I don't mean real-world pentesting but in solving machines and challenges in practice sites.
 
 {% hint style="info" %}
 [What is a CTF?](https://ctfd.io/whats-a-ctf/)
@@ -72,13 +72,13 @@ There's not much of a good site I would recommend dedicated to this, explore dif
 {% endtab %}
 
 {% tab title="OSINT" %}
-#### OSINT \(Open Source INTelligence\)
+#### OSINT (Open Source INTelligence)
 
-OSINT refers to gathering data and information through publicly available sources\(like googling, yup that is also considered as OSINT\). Don't underestimate it just because it is gathering information, a lot of companies and people tend to leave a lot of information publicly than they think and information is power in hacking.
+OSINT refers to gathering data and information through publicly available sources(like googling, yup that is also considered as OSINT). Don't underestimate it just because it is gathering information, a lot of companies and people tend to leave a lot of information publicly than they think and information is power in hacking.
 
 It is pretty important while conducting a real-world pentest to properly plan out attack strategies and also in CTF's.
 
-[Trace Labs](https://www.tracelabs.org/) is a site dedicated to helping people in real life using OSINT.
+[Trace Labs](https://www.tracelabs.org) is a site dedicated to helping people in real life using OSINT.
 {% endtab %}
 
 {% tab title="Web" %}
@@ -90,10 +90,10 @@ It is exactly what it sounds like, exploiting websites or applications on the in
 
 Some pretty big bug bounty platforms
 
-* [Bugcrowd](https://www.bugcrowd.com/)
-* [HackerOne](https://www.hackerone.com/)
-* [Intigriti](https://www.intigriti.com/)
-* [Synack](https://www.synack.com/) \(This one is exclusive but covers more than just web exploitation\)
+* [Bugcrowd](https://www.bugcrowd.com)
+* [HackerOne](https://www.hackerone.com)
+* [Intigriti](https://www.intigriti.com)
+* [Synack](https://www.synack.com) (This one is exclusive but covers more than just web exploitation)
 
 Some companies have their own private bug bounty programs on their sites, you can check them out directly too.
 {% endtab %}
@@ -101,9 +101,9 @@ Some companies have their own private bug bounty programs on their sites, you ca
 {% tab title="Pwn" %}
 #### Binary Exploitation
 
-This is a pretty broad topic which in short can be explained as finding a vulnerability in a program and exploiting it. It includes Buffer overflows, Heap exploitation, Stack smashing and a lot more. It is to have full control of how a program/system works in short pwning\(owning\) it.
+This is a pretty broad topic which in short can be explained as finding a vulnerability in a program and exploiting it. It includes Buffer overflows, Heap exploitation, Stack smashing and a lot more. It is to have full control of how a program/system works in short pwning(owning) it.
 
-[pwnable.kr](http://pwnable.kr/) is a site fully dedicated to this.
+[pwnable.kr](http://pwnable.kr) is a site fully dedicated to this.
 
 **Interesting Fact**: It is called pwning instead of owning because of a typo made by a game developer in WarCraft and it stuck.
 {% endtab %}
@@ -117,33 +117,27 @@ It's short for Penetration Testing. It includes more or less of everything menti
 
 ### Now for where to actually practice
 
-* [OverTheWire](https://overthewire.org/wargames/)
+*   [OverTheWire](https://overthewire.org/wargames/)
 
-  You can learn a lot of basic to intermediate stuff here from Linux to Web Application Security
+    You can learn a lot of basic to intermediate stuff here from Linux to Web Application Security
+*   [TryHackMe](https://tryhackme.com)
 
-* [TryHackMe](https://tryhackme.com)
+    This is the most beginner-friendly site, it has a lot of resources to learn from and experiment on legally.
+*   [picoCTF](https://picoctf.org)
 
-  This is the most beginner-friendly site, it has a lot of resources to learn from and experiment on legally.
+    This contains archives of previous picoCTF's, you can practice them it's very helpful when trying to test your basic knowledge. They also hold yearly CTF's in Feb-Mar.
+*   [CodeWars](https://www.codewars.com)
 
-* [picoCTF](https://picoctf.org/)
+    This is not exactly a site for hacking but you can practice your scripting skills in different languages, it also contains some cryptography challenges.
+*   [HackTheBox](https://app.hackthebox.eu)
 
-  This contains archives of previous picoCTF's, you can practice them it's very helpful when trying to test your basic knowledge. They also hold yearly CTF's in Feb-Mar.
+    This one's a pretty hardcore site, I would highly suggest beginners steer clear of this site until you think you're at least an intermediate level coz the challenges are pretty hard for beginners and don't wanna chase you away with it (at least that's what I feel).
+*   [OSPG](https://portal.offensive-security.com)
 
-* [CodeWars](https://www.codewars.com)
+    This one is purely penetration testing and has very good and interesting machines.
+*   [CTFtime](https://ctftime.org)
 
-  This is not exactly a site for hacking but you can practice your scripting skills in different languages, it also contains some cryptography challenges.
-
-* [HackTheBox](https://app.hackthebox.eu)
-
-  This one's a pretty hardcore site, I would highly suggest beginners steer clear of this site until you think you're at least an intermediate level coz the challenges are pretty hard for beginners and don't wanna chase you away with it \(at least that's what I feel\).
-
-* [OSPG](https://portal.offensive-security.com)
-
-  This one is purely penetration testing and has very good and interesting machines.
-
-* [CTFtime](https://ctftime.org/)
-
-  This website is not exactly a site for practice but keeps track of all ongoing live CTF's so that you can participate in them at your convenience.
+    This website is not exactly a site for practice but keeps track of all ongoing live CTF's so that you can participate in them at your convenience.
 
 When practicing in any of the above sites do not hesitate to look at solutions because you're in the learning phase, you don't know a lot of stuff in the beginning, learn from the solutions and note them down.
 
@@ -213,13 +207,13 @@ Here are some good GitHub repos and courses I followed/took.
 {% tab title="Courses" %}
 * From TheCyberMentor
   * [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
-* From Tib3rius \(do not take as a complete beginner\)
+* From Tib3rius (do not take as a complete beginner)
   * [Windows Privilege Escalation](https://www.udemy.com/course/windows-privilege-escalation/)
   * [Linux Privilege Escalation](https://www.udemy.com/course/linux-privilege-escalation/)
 {% endtab %}
 
 {% tab title="GitHub Repos" %}
-* [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
+* [Bugcrowd University](https://github.com/bugcrowd/bugcrowd\_university)
 * [Nahamsec Resources](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 * [TrailofBits](https://github.com/trailofbits/ctf)
 * [Awesome-pentest](https://github.com/enaqx/awesome-pentest)
@@ -254,21 +248,18 @@ Definitely watch [this video](https://www.youtube.com/watch?v=2TofunAI6fU) of Li
 
 You'll be navigating through a lot of Linux systems because even though it's not a very widely used desktop OS, 95% of the web use some kind of Linux OS for their servers.
 
-So get yourself as familiar as possible with Linux, it'll be pretty different from windows at the start and a bit annoying and hard to use for someone who never used it but trust me you'll start loving and enjoying it more than windows unless you're a hardcore gamer \(steam is trying to make gaming possible for Linux gonna take some time tho\).
+So get yourself as familiar as possible with Linux, it'll be pretty different from windows at the start and a bit annoying and hard to use for someone who never used it but trust me you'll start loving and enjoying it more than windows unless you're a hardcore gamer (steam is trying to make gaming possible for Linux gonna take some time tho).
 
 ![](.gitbook/assets/linux-learn.png)
 
 Try to practice daily in TryHackMe because if you lose touch it's gonna be pretty bad in a beginner phase, be as consecutive as possible.
 
-After getting familiar with most of the TryHackMe labs take the [INE starter pass](https://ine.com/) which contains the course content and labs for eJPT for free and when you think you've prepared enough you can take the eJPT exam and get your first certification and then start preparing for OSCP.
+After getting familiar with most of the TryHackMe labs take the [INE starter pass](https://ine.com) which contains the course content and labs for eJPT for free and when you think you've prepared enough you can take the eJPT exam and get your first certification and then start preparing for OSCP.
 
 After that, I'm pretty sure you would have a pretty strong foothold to decide what to do from that point on.
 
-## 
+##
 
 I made this blog because when I started there were not many people who could have helped me or guided me and I made this in a way such that it answers most of the questions I had when I started.
 
 May the source be with you in this journey, young padawan. **`Hack The Planet`.**
-
-If you would like to ping me for anything, feel free to reach me out on my social media [LinkedIn](https://www.linkedin.com/in/paul-kadali/), [GitHub](https://github.com/Kaiser784), [Twitter](https://twitter.com/paul_kadali)
-

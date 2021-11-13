@@ -36,5 +36,3 @@ I can't be going into much detail about machines or the flow but enumeration wil
 * Take as much time as you need and marinate yourself in all the new things you find, As it is neither an exam nor time-constrained.
 * Spend more time reading and note-taking it'll be very helpful not only to keep track but also to refer to similar topics later on.
 * Take breaks while solving the network especially if you're a beginner and a student who's taking other classes. I took a 1-2 week break not only bcoz of my university classes but also to take a breather and think from a new perspective.
-
-![](../.gitbook/assets/Dante_page-0001.jpg)
