@@ -18,4 +18,4 @@ Not only just working on stuff, I decided to read Research Papers of different p
 * [ ] Try to be more consistent with less breaks.
 * [ ] Read more diverse Research papers to find interests.
 
-### Catenate (links for if you follow some of the stuff I did)
+### Catenate (links for if you wanna follow some of the stuff I did)
