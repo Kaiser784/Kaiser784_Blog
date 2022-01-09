@@ -2,10 +2,11 @@
 
 * [whoami](README.md)
 * [Ingress](beginnnings.md)
-* [120 Days High Frequency](trigger/README.md)
+* [90 Days High Frequency](trigger/README.md)
   * [Log-1](trigger/logs.md)
   * [Log-2](trigger/log-2.md)
   * [Log-3](trigger/log-3.md)
+  * [Conclusion](trigger/conclusion.md)
 
 ## Certifications
 
