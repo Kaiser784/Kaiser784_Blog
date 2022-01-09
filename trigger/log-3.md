@@ -4,8 +4,6 @@ description: Dec 1, 2021 - Jan 1, 2022
 
 # Log-3
 
-### Lancement
-
 Due to University I decided to take a month break until I complete my finals and then resume everything in full force.
 
 Participated in a CTF during a weekend but that was all I did in November.
@@ -21,3 +19,5 @@ Participated in a couple of Year-End CTF's, but for the most part of the last we
 * [ ] Got an understanding of how to properly work on BB program rather than just finding only certain types of bugs
 * [ ] Getting more into Malware Research kind of on the hardware side
 * [ ] Working more on CTF's with duos or teams is fun&#x20;
+
+### Catenate

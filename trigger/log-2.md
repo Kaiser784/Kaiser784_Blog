@@ -4,10 +4,6 @@ description: Oct 1, 2021 - Nov 1, 2021
 
 # Log-2
 
-### Lancement
-
-This of the next 30 days in the journey. Things slowed down a bit, but I still tried pushing as much as I can taking 1-2 day breaks and trying to make it up for them on later days.
-
 ### Summary
 
 The first 2 weeks were dedicated to solving the Dante lab and completed it but now had some dilemma with what to do next and then decided to practice the rest of free HTB challenges and machines in a kind of preparation for Synack Technical Assessment and send the mail/application in mid-November.
@@ -21,3 +17,5 @@ Read upon 2 more Research papers and watched talks and presentations related to 
 * [ ] Get organized and start BB in full commitment
 * [ ] Try to look into more research during the opportunity
 * [ ] Try to be on your toes by participating in atleast 1 CTF per week
+
+### Catenate
