@@ -16,3 +16,18 @@ I'll be logging my Daily activity/logs on Obsidian locally and update it here as
 
 ![](../.gitbook/assets/giphy.gif)
 
+{% content-ref url="logs.md" %}
+[logs.md](logs.md)
+{% endcontent-ref %}
+
+{% content-ref url="log-2.md" %}
+[log-2.md](log-2.md)
+{% endcontent-ref %}
+
+{% content-ref url="log-3.md" %}
+[log-3.md](log-3.md)
+{% endcontent-ref %}
+
+{% content-ref url="conclusion.md" %}
+[conclusion.md](conclusion.md)
+{% endcontent-ref %}
