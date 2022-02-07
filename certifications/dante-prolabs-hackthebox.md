@@ -28,7 +28,7 @@ Hacktricks was very useful for me and helped me a lot in the whole Lab.
 
 {% embed url="https://book.hacktricks.xyz" %}
 
-I can't be going into much detail about machines or the flow but enumeration will play a large role in compromising the network. Learning how subnets, Domain Controllers and Windows servers work will be advantageous. There might be more than one ways to compromise a machine so look for them too and try to take in as much knowledge an dexperience you can from this lab.
+I can't be going into much detail about machines or the flow but enumeration will play a large role in compromising the network. Learning how subnets, Domain Controllers and Windows servers work will be advantageous. There might be more than one ways to compromise a machine so look for them too and try to take in as much knowledge and experience you can from this lab.
 
 ### Tips
 
