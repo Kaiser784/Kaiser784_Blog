@@ -101,7 +101,43 @@ passwd <username> (set the password for the user)
 
 ### Setting the sudo Privesc
 
+For privilege escalation I though of letting the user run `cat` and `ls` meaning he can list and read the files in the root directory.
+
+To do this we have to edit the sudoers file, run the below command as root
+
+```shell
+visudo
+```
+
+and add the following to your user
+
+```
+<username>    ALL=(ALL) NOPASSWD:/bin/cat, /usr/bin/ls
+```
+
+add your root flag to root.txt in the `/root` directory and then we just have add appropriate permissions to the user and root flags and we are good to go
+
+```shell
+sudo chown <username>:<username /home/<username/user.txt
+sudo chmod u+rx /home/<username/user.txt
+sudo chmod u-w /home/<username/user.txt
+sudo chmod go-rwx /home/<username
+
+sudo chown root:root /root/root.txt
+sudo chmod u+rx /root/root.txt
+sudo chmod u-w /root/root.txt
+sudo chmod go-rwx /root
+```
+
 ### Sanity Check
+
+Don't foget to restart all the services before doing the sanity check
+
+```shell
+service ufw restart
+service ssh restart
+service vsftpd restart
+```
 
 Do a sanity check to see if everything you restarted and updated is working perfectly. We need to get the ip-address of the container to test it out. We can do this by
 
@@ -112,5 +148,75 @@ docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' <co
 
 After you get the ip you can do your checks with the ftp server and ssh with the accounts you created. If everything is working fine we can move on to commit the image and push it to docker hub.
 
-### Pushing to docker hub and making docker-compose files
+### Pushing to docker hub&#x20;
 
+After all this the one thing we need to do is make your docker container available to the whole world wide web. To do this we have to commit your docker container.
+
+Exit your container after making all the changes and testing it.&#x20;
+
+```shell
+docker ps -a
+```
+
+Use the above command to get the container-id of the container you just exited.
+
+```shell
+docker commit <container-id> <image-name>
+```
+
+You can now check your new image using&#x20;
+
+```shell
+docker imaages
+```
+
+To upload this onto docker hub, you first need to make an account on [Docker Hub](https://hub.docker.com/). Click on your profile image and go to account settings. Click on Security in the left navigation and add New Access Token. Copy your access token and back in your terminal do the following
+
+```shell
+docker login -u <username>
+```
+
+you'll be prompted to enter the access token.\
+Now to upload on to docker hub you nbeed to tag it and then push it.
+
+```shell
+docker image tag <image-name> <username>/<image-name>:latest
+docker image push <username>/<image-name>:latest
+```
+
+### Making docker-compose file
+
+The docker-compose file for this image is very simple
+
+* [ ] We'll be pulling the image from docker hub
+* [ ] adding the additional capability to it `--cap-add=NET_ADMIN`&#x20;
+* [ ] run a command to restart the services `ufw`, `vsftpd` and `ssh`&#x20;
+* [ ] add a tails command to keep the container from exiting in detached mode
+
+{% code title="docker-compose.yaml" overflow="wrap" %}
+```yaml
+version: '2'
+
+services:
+    app:
+        cap_add:
+        - NET_ADMIN
+        image: <username>/<image-name>
+        command: sh -c "service ufw restart && service vsftpd restart && service ssh restart && tail -f /dev/null"
+```
+{% endcode %}
+
+you just need to run the below command in the same directory as the file for the container to be up and running
+
+```shell
+docker-compose up
+```
+
+If you make any changes to to yaml file make sure to take the container down before running it again
+
+```shell
+docker-compose down
+docker-compose up
+```
+
+Hope you learnt  soemthing about docker or about configuring boot2root machines, If you're intereted check out my other blogs too.
