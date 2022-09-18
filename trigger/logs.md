@@ -23,7 +23,7 @@ Not only just working on stuff, I decided to read Research Papers of different p
 {% tabs %}
 {% tab title="Readings" %}
 * [ ] [https://www.bugcrowd.com/blog/how-to-succeed-in-bug-bounties-as-a-pentester/](https://www.bugcrowd.com/blog/how-to-succeed-in-bug-bounties-as-a-pentester/)
-* [ ] [https://www.bugbountyhunting.com/](https://www.bugbountyhunting.com)
+* [ ] [https://www.bugbountyhunting.com/](https://www.bugbountyhunting.com/)
 * [ ] [https://github.com/honoki/bbrf-client](https://github.com/honoki/bbrf-client)
 * [ ] [https://github.com/kurogai/100-redteam-projects](https://github.com/kurogai/100-redteam-projects)
 * [ ] Medium Daily Reads
@@ -36,7 +36,7 @@ Not only just working on stuff, I decided to read Research Papers of different p
 
 {% tab title="Practice" %}
 * [ ] [https://www.codewars.com](https://www.codewars.com)
-* [ ] [https://www.bugbountyhunter.com/](https://www.bugbountyhunter.com)
+* [ ] [https://www.bugbountyhunter.com/](https://www.bugbountyhunter.com/)
 * [ ] [https://app.hackthebox.com/prolabs/overview/dante](https://app.hackthebox.com/prolabs/overview/dante)
 {% endtab %}
 {% endtabs %}

@@ -4,6 +4,8 @@ description: How to enter the Security field or more appropriately How to start 
 
 # Ingress
 
+
+
 {% hint style="info" %}
 If you're reading this and don't understand a term or an acronym try your best to google it, coz there **will** be a lot of googling when you get into security.
 {% endhint %}
@@ -78,7 +80,7 @@ OSINT refers to gathering data and information through publicly available source
 
 It is pretty important while conducting a real-world pentest to properly plan out attack strategies and also in CTF's.
 
-[Trace Labs](https://www.tracelabs.org) is a site dedicated to helping people in real life using OSINT.
+[Trace Labs](https://www.tracelabs.org/) is a site dedicated to helping people in real life using OSINT.
 {% endtab %}
 
 {% tab title="Web" %}
@@ -90,10 +92,10 @@ It is exactly what it sounds like, exploiting websites or applications on the in
 
 Some pretty big bug bounty platforms
 
-* [Bugcrowd](https://www.bugcrowd.com)
-* [HackerOne](https://www.hackerone.com)
-* [Intigriti](https://www.intigriti.com)
-* [Synack](https://www.synack.com) (This one is exclusive but covers more than just web exploitation)
+* [Bugcrowd](https://www.bugcrowd.com/)
+* [HackerOne](https://www.hackerone.com/)
+* [Intigriti](https://www.intigriti.com/)
+* [Synack](https://www.synack.com/) (This one is exclusive but covers more than just web exploitation)
 
 Some companies have their own private bug bounty programs on their sites, you can check them out directly too.
 {% endtab %}
@@ -103,7 +105,7 @@ Some companies have their own private bug bounty programs on their sites, you ca
 
 This is a pretty broad topic which in short can be explained as finding a vulnerability in a program and exploiting it. It includes Buffer overflows, Heap exploitation, Stack smashing and a lot more. It is to have full control of how a program/system works in short pwning(owning) it.
 
-[pwnable.kr](http://pwnable.kr) is a site fully dedicated to this.
+[pwnable.kr](http://pwnable.kr/) is a site fully dedicated to this.
 
 **Interesting Fact**: It is called pwning instead of owning because of a typo made by a game developer in WarCraft and it stuck.
 {% endtab %}
@@ -123,7 +125,7 @@ It's short for Penetration Testing. It includes more or less of everything menti
 *   [TryHackMe](https://tryhackme.com)
 
     This is the most beginner-friendly site, it has a lot of resources to learn from and experiment on legally.
-*   [picoCTF](https://picoctf.org)
+*   [picoCTF](https://picoctf.org/)
 
     This contains archives of previous picoCTF's, you can practice them it's very helpful when trying to test your basic knowledge. They also hold yearly CTF's in Feb-Mar.
 *   [CodeWars](https://www.codewars.com)
@@ -135,7 +137,7 @@ It's short for Penetration Testing. It includes more or less of everything menti
 *   [OSPG](https://portal.offensive-security.com)
 
     This one is purely penetration testing and has very good and interesting machines.
-*   [CTFtime](https://ctftime.org)
+*   [CTFtime](https://ctftime.org/)
 
     This website is not exactly a site for practice but keeps track of all ongoing live CTF's so that you can participate in them at your convenience.
 
@@ -254,7 +256,7 @@ So get yourself as familiar as possible with Linux, it'll be pretty different fr
 
 Try to practice daily in TryHackMe because if you lose touch it's gonna be pretty bad in a beginner phase, be as consecutive as possible.
 
-After getting familiar with most of the TryHackMe labs take the [INE starter pass](https://ine.com) which contains the course content and labs for eJPT for free and when you think you've prepared enough you can take the eJPT exam and get your first certification and then start preparing for OSCP.
+After getting familiar with most of the TryHackMe labs take the [INE starter pass](https://ine.com/) which contains the course content and labs for eJPT for free and when you think you've prepared enough you can take the eJPT exam and get your first certification and then start preparing for OSCP.
 
 After that, I'm pretty sure you would have a pretty strong foothold to decide what to do from that point on.
 

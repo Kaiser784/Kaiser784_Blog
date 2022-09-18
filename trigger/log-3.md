@@ -24,7 +24,7 @@ Participated in a couple of Year-End CTF's and started making notes instead of w
 
 {% tabs %}
 {% tab title="Readings" %}
-* [ ] [https://class.malware.re/](https://class.malware.re)
+* [ ] [https://class.malware.re/](https://class.malware.re/)
 {% endtab %}
 
 {% tab title="Videos" %}
