@@ -1,6 +1,6 @@
 # Making a Boot2root machine with docker
 
-I've been trying to learn about Docker recently and experiment with it and I though what would be a better way to test my basics than to make a dockerized boot2root machine, so here we are.
+I've been trying to learn about Docker recently and experiment with it and I thought what would be a better way to test my basics than to make a dockerized boot2root machine, so here we are.
 
 The boot2root machine we'll be implementing is a very simple one
 
@@ -18,7 +18,7 @@ docker images (gives image ID's for all repos)
 docker run -cap-add=NET_ADMIN -it <ubuntu image ID> 
 ```
 
-Following the above you'll be inside the docker image with root privileges. One thing you should remember is that this is image is stripped of evertyhing nothing is installed from the start. You have to install the basic needed tools and ones you're gonna use for boot2root manually incuding `sudo` .
+Following the above you'll be inside the docker image with root privileges. One thing you should remember is that this is image is stripped of everything nothing is installed from the start. You have to install the basic needed tools and ones you're gonna use for boot2root manually including `sudo`&#x20;
 
 ```shell
 apt-get update  
@@ -53,14 +53,9 @@ sudo mkdir -p /var/ftp/pub
 sudo chown nobody:nogroup /var/ftp/pub
 ```
 
-We also need to edit the `vsftpd.conf` file to allow anon login and also set the root directory. You can open the file with
+We also need to edit the `vsftpd.conf` file to allow anon login and also set the root directory.&#x20;
 
-```shell
-nano /etc/vsftpd.conf
-```
-
-edit the config file with&#x20;
-
+{% code title="/etc/vsftpd.conf" %}
 ```c
 anonymous_enable=YES
 local_enable=YES
@@ -68,8 +63,9 @@ local_enable=YES
 anon_root=/var/ftp/pub/
 hide_ids=YES
 ```
+{% endcode %}
 
-Now just add a file withe user creds you wanna give for ssh or any other hint
+Now just add a file with user creds you wanna give for ssh or any other hint
 
 ```shell
 nano /var/ftp/pub/creds.txt
@@ -93,15 +89,15 @@ These commands make a backup copy of our config, and gives it permissions so tha
 
 Make lower privilege user for the user flag
 
-```
-useradd -m <username> (creates user with home directory)
-usermod --shell /bin/bash <username> (sets bash as shell for the user)
-passwd <username> (set the password for the user)
+```shell
+useradd -m <username> #creates user with home directory
+usermod --shell /bin/bash <username> #sets bash as shell for the user
+passwd <username> #set the password for the user
 ```
 
 ### Setting the sudo Privesc
 
-For privilege escalation I though of letting the user run `cat` and `ls` meaning he can list and read the files in the root directory.
+For privilege escalation I thought of letting the user run `cat` and `ls` meaning he can list and read the files in the root directory.
 
 To do this we have to edit the sudoers file, run the below command as root
 
@@ -111,9 +107,11 @@ visudo
 
 and add the following to your user
 
+{% code title="/etc/sudoers" %}
 ```
 <username>    ALL=(ALL) NOPASSWD:/bin/cat, /usr/bin/ls
 ```
+{% endcode %}
 
 add your root flag to root.txt in the `/root` directory and then we just have add appropriate permissions to the user and root flags and we are good to go
 
@@ -219,4 +217,4 @@ docker-compose down
 docker-compose up
 ```
 
-Hope you learnt  soemthing about docker or about configuring boot2root machines, If you're intereted check out my other blogs too.
+Hope you learnt  something about docker or about configuring boot2root machines, If you're interested check out my other blogs too.
