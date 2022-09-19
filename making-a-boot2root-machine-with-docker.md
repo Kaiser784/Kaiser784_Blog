@@ -10,7 +10,7 @@ The boot2root machine we'll be implementing is a very simple one
 
 ### Base Setup
 
-The first thing to do would be install docker which you can install from [here](https://www.docker.com/) and then pull a ubuntu latest image from docker to work with.
+The first thing to do would be install docker which you can install from [here](https://www.docker.com/) and then pull an Ubuntu latest image from docker to work with.
 
 ```shell
 docker pull ubuntu
@@ -129,7 +129,7 @@ sudo chmod go-rwx /root
 
 ### Sanity Check
 
-Don't foget to restart all the services before doing the sanity check
+Don't forget to restart all the services before doing the sanity check
 
 ```shell
 service ufw restart
@@ -175,7 +175,7 @@ docker login -u <username>
 ```
 
 you'll be prompted to enter the access token.\
-Now to upload on to docker hub you nbeed to tag it and then push it.
+Now to upload on to docker hub you need to tag it and then push it.
 
 ```shell
 docker image tag <image-name> <username>/<image-name>:latest
@@ -210,7 +210,7 @@ you just need to run the below command in the same directory as the file for the
 docker-compose up
 ```
 
-If you make any changes to to yaml file make sure to take the container down before running it again
+If you make any changes to to `.yaml` file make sure to take the container down before running it again
 
 ```shell
 docker-compose down
