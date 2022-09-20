@@ -14,7 +14,7 @@ The first thing to do would be install docker which you can install from [here](
 
 ```shell
 docker pull ubuntu
-docker images (gives image ID's for all repos)
+docker images #gives image ID's for all repos
 docker run -cap-add=NET_ADMIN -it <ubuntu image ID> 
 ```
 
@@ -191,7 +191,7 @@ The docker-compose file for this image is very simple
 * [ ] run a command to restart the services `ufw`, `vsftpd` and `ssh`&#x20;
 * [ ] add a tails command to keep the container from exiting in detached mode
 
-{% code title="docker-compose.yaml" overflow="wrap" %}
+{% code title="docker-compose.yaml" overflow="wrap" lineNumbers="true" %}
 ```yaml
 version: '2'
 
