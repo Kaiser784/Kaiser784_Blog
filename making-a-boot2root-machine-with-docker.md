@@ -165,7 +165,7 @@ docker commit <container-id> <image-name>
 You can now check your new image using&#x20;
 
 ```shell
-docker imaages
+docker images
 ```
 
 To upload this onto docker hub, you first need to make an account on [Docker Hub](https://hub.docker.com/). Click on your profile image and go to account settings. Click on Security in the left navigation and add New Access Token. Copy your access token and back in your terminal do the following
