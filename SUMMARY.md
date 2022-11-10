@@ -22,3 +22,7 @@
 ## Writeups
 
 * [OSPG Writeups](https://github.com/Kaiser784/Offsec-Proving-Grounds)
+
+***
+
+* [Redirection](redirection.md)
