@@ -10,5 +10,7 @@ description: prospective - Mar 6 2023
 
 I'll be following the GregMAT 1-month GRE plan and also use the magoosh tests to consistently evaluate myself. as of writing this Prologue I've done 4 days of the 1-month plan and will be continuing from Day 5. All the resources I use will be uploaded to my GitHub repo and divided based on the ones I used and the extra material that other people might use.
 
+{% embed url="https://github.com/Kaiser784/GRE-Prep" %}
+
 ### Current
 

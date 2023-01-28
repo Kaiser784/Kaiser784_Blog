@@ -1,10 +1,10 @@
 ---
-description: Jan 28 2023 -
+description: Jan 29 2023 -
 ---
 
 # Log-1
 
-### Jan 28 2023
+### Jan 29 2023
 
 * [ ] GRE Big Book
   * [ ] In Test 1, Section 3, complete questions 21-25 (pp. 45-46).
@@ -12,8 +12,6 @@ description: Jan 28 2023 -
   * [ ] In Test 2, Section 2, complete questions 21-25 (pp. 79-80).
   * [ ] In Test 2, Section 5, complete questions 21-25 (pp. 98-99)
 * [ ] Magoosh - Math - Adaptive - All - 20 questions
-
-### Jan 29 2023
 
 ### Jan 30 2023
 
