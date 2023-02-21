@@ -18,10 +18,7 @@
     * [System Attacks](certifications/ejpt/cheatsheet-notes/system-attacks.md)
     * [Network Attacks](certifications/ejpt/cheatsheet-notes/network-attacks.md)
 * [Dante ProLabs (HackTheBox)](certifications/dante-prolabs-hackthebox.md)
-* [GRE](certifications/gre/README.md)
-  * [Log-1](certifications/gre/log-1.md)
-  * [Log-2](certifications/gre/log-2.md)
-  * [Log-3](certifications/gre/log-3.md)
+* [GRE](certifications/gre.md)
 
 ## Writeups
 
