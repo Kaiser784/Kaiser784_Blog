@@ -26,3 +26,7 @@
 ***
 
 * [Redirection](redirection.md)
+
+## CTF's
+
+* [Page 1](ctfs/page-1.md)
