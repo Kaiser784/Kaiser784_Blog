@@ -7,7 +7,6 @@
   * [Log-2](trigger/log-2.md)
   * [Log-3](trigger/log-3.md)
   * [Conclusion](trigger/conclusion.md)
-* [30 Day High Frequency](30-day-high-frequency.md)
 * [Making a Boot2root machine with docker](making-a-boot2root-machine-with-docker.md)
 
 ## Certifications
