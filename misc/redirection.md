@@ -6,4 +6,4 @@ You've already been redirected so don't worry. Please use this domain from now s
 
 &#x20;                                                                      **Sorry for the inconvenience**
 
-<figure><img src=".gitbook/assets/sorry.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sorry.gif" alt=""><figcaption></figcaption></figure>
