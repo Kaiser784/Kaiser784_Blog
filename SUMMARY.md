@@ -30,4 +30,4 @@
 
 ## Misc
 
-* [Redirection](misc/redirection.md)
+* [Redirection](redirection.md)
