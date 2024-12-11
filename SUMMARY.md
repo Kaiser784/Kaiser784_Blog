@@ -21,6 +21,7 @@
 
 ## Writeups
 
+* [Lakera Gandalf LLM Security](https://gist.github.com/Kaiser784/e80e7ce8a679a3841466cc79f16f1550)
 * [OSPG Writeups](https://github.com/Kaiser784/Offsec-Proving-Grounds)
 
 ***
