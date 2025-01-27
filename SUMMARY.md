@@ -8,6 +8,7 @@
   * [Log-3](trigger/log-3.md)
   * [Conclusion](trigger/conclusion.md)
 * [Making a Boot2root machine with docker](making-a-boot2root-machine-with-docker.md)
+* [Google InternetCTF](google-internetctf.md)
 
 ## Certifications
 
@@ -23,10 +24,6 @@
 
 * [Lakera Gandalf LLM Security](https://gist.github.com/Kaiser784/e80e7ce8a679a3841466cc79f16f1550)
 * [OSPG Writeups](https://github.com/Kaiser784/Offsec-Proving-Grounds)
-
-## CTF's
-
-* [Page 1](ctfs/page-1.md)
 
 ## Misc
 
