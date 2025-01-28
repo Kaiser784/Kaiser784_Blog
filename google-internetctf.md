@@ -78,7 +78,7 @@ get the ip of the hosted url using `dig`
 
 ## Apache CVE-2021-41773 (path traversal)
 
-[https://www.hackthebox.com/blog/cve-2021-41773-explained](https://www.hackthebox.com/blog/cve-2021-41773-explained)
+Read more about CVE-2021-41773 at : [https://www.hackthebox.com/blog/cve-2021-41773-explained](https://www.hackthebox.com/blog/cve-2021-41773-explained)
 
 {% code overflow="wrap" %}
 ```sh
