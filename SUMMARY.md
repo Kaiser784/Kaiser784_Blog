@@ -9,6 +9,7 @@
   * [Conclusion](trigger/conclusion.md)
 * [Making a Boot2root machine with docker](making-a-boot2root-machine-with-docker.md)
 * [Google InternetCTF](google-internetctf.md)
+* [Matrix - AI Security Challenge](matrix-ai-security-challenge.md)
 
 ## Certifications
 
