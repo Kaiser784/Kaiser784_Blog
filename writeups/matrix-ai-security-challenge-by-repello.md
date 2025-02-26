@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Repello.png
+coverY: 0
+---
+
 # Matrix - AI Security Challenge by Repello
 
 {% embed url="https://matrix.repello.ai/" %}
