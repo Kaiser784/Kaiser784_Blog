@@ -8,8 +8,7 @@
   * [Log-3](trigger/log-3.md)
   * [Conclusion](trigger/conclusion.md)
 * [Making a Boot2root machine with docker](making-a-boot2root-machine-with-docker.md)
-* [Google InternetCTF](google-internetctf.md)
-* [Matrix - AI Security Challenge](matrix-ai-security-challenge.md)
+* [Adversarial ML - TTPs](adversarial-ml-ttps.md)
 
 ## Certifications
 
@@ -25,6 +24,8 @@
 
 * [Lakera Gandalf LLM Security](https://gist.github.com/Kaiser784/e80e7ce8a679a3841466cc79f16f1550)
 * [OSPG Writeups](https://github.com/Kaiser784/Offsec-Proving-Grounds)
+* [Matrix - AI Security Challenge by Repello](writeups/matrix-ai-security-challenge-by-repello.md)
+* [Google InternetCTF](writeups/google-internetctf.md)
 
 ## Misc
 
