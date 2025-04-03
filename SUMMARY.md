@@ -23,12 +23,12 @@
 
 ## Writeups
 
-* [Google InternetCTF](writeups/google-internetctf.md)
+* [Google InternetCTF writeup](writeups/google-internetctf-writeup.md)
 * [Lakera Gandalf LLM Security](https://gist.github.com/Kaiser784/e80e7ce8a679a3841466cc79f16f1550)
 * [OSPG Writeups](https://github.com/Kaiser784/Offsec-Proving-Grounds)
-* [Matrix - AI Security Challenge by Repello](writeups/matrix-ai-security-challenge-by-repello.md)
-* [WithSecure AI Challenge - My LLM Doctor](writeups/withsecure-ai-challenge-my-llm-doctor.md)
-* [WIZ The BIG IAM Challenge](writeups/wiz-the-big-iam-challenge.md)
+* [Matrix - AI Security Challenge by Repello writeup](writeups/matrix-ai-security-challenge-by-repello-writeup.md)
+* [WithSecure AI Challenge - My LLM Doctor writeup](writeups/withsecure-ai-challenge-my-llm-doctor-writeup.md)
+* [WIZ The BIG IAM Challenge writeup](writeups/wiz-the-big-iam-challenge-writeup.md)
 * [Wiz AI Security Challenge](writeups/wiz-ai-security-challenge.md)
 
 ## Misc
