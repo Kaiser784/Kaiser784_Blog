@@ -1,10 +1,10 @@
 ---
 description: https://bigiamchallenge.com/
-cover: ../.gitbook/assets/Big IAM.png
+cover: ../../.gitbook/assets/Big IAM.png
 coverY: 0
 ---
 
-# WIZ The BIG IAM Challenge
+# The BIG IAM Challenge writeup
 
 ## Challenge 1 - Buckets of Fun
 
@@ -246,11 +246,11 @@ We can see that the policy allows all actions within the Cognito Sync Service. A
 
 We know that the Cognito Service is being used but we need to find the identity pool id to make calls to the application. The AWS cognito image you see on the screen is being hosted on the wiz-privatefiles bucket we can see that if we open the image in a new tab. If you check the source code of the challenge page we can find the Cognito Service creds.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 You can open devtools and the check config creds in console
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 > export AWS_ACCESS_KEY_ID=ASIARK7LBOHXNHWZMNND

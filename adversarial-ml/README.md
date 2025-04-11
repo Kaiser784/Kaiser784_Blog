@@ -35,7 +35,7 @@ Drift happens when a model’s performance worsens over time because the real wo
 
     Concept drift happens when the relationship between inputs and outputs changes. For example, a model trained to predict if someone will buy a product based on their age and income might fail if a new trend (e.g., TikTok challenges) suddenly drives purchases.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Related Tactics
 

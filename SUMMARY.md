@@ -28,8 +28,11 @@
 * [OSPG Writeups](https://github.com/Kaiser784/Offsec-Proving-Grounds)
 * [Matrix - AI Security Challenge by Repello writeup](writeups/matrix-ai-security-challenge-by-repello-writeup.md)
 * [WithSecure AI Challenge - My LLM Doctor writeup](writeups/withsecure-ai-challenge-my-llm-doctor-writeup.md)
-* [WIZ The BIG IAM Challenge writeup](writeups/wiz-the-big-iam-challenge-writeup.md)
-* [Wiz AI Security Challenge](writeups/wiz-ai-security-challenge.md)
+* [WIZ Security Challenges](writeups/wiz-security-challenges/README.md)
+  * [The BIG IAM Challenge writeup](writeups/wiz-security-challenges/the-big-iam-challenge-writeup.md)
+  * [K8S LAN Party Writeup](writeups/wiz-security-challenges/k8s-lan-party-writeup.md)
+  * [EKS Cluster Games](writeups/wiz-security-challenges/eks-cluster-games.md)
+  * [Prompt Airlines Writeup](writeups/wiz-security-challenges/prompt-airlines-writeup.md)
 
 ## Misc
 
