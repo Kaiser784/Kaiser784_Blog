@@ -351,3 +351,4 @@ l7pwC6b1wCN4MgYwmxtByTDiUxSUNGxnHycfx8mebQlYuZG549EXGP_Av9vlJsfeakW4uv8XgvGkFXOQ
 {wiz:open-sesame-or-shell-i-say-openid}
 ```
 
+<figure><img src="../../.gitbook/assets/Big IAM.png" alt=""><figcaption></figcaption></figure>

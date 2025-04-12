@@ -344,3 +344,5 @@ We can see the response patch is in base64 converting it on [CyberChef](https://
 [{"op":"add","path":"/spec/containers/0/env","value":[{"name":"FLAG","value":"wiz_k8s_lan_party{you-are-k8s-net-master-with-great-power-to-mutate-your-way-to-victory}"}]}, {"path":"/metadata/annotations","op":"add","value":{"policies.kyverno.io/last-applied-patches":"inject-env-vars.apply-flag-to-env.kyverno.io: added /spec/containers/0/env\n"}}]
 ```
 {% endcode %}
+
+<figure><img src="../../.gitbook/assets/K8S party.png" alt=""><figcaption></figcaption></figure>
