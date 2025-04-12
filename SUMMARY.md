@@ -31,7 +31,7 @@
 * [WIZ Security Challenges](writeups/wiz-security-challenges/README.md)
   * [The BIG IAM Challenge writeup](writeups/wiz-security-challenges/the-big-iam-challenge-writeup.md)
   * [K8S LAN Party Writeup](writeups/wiz-security-challenges/k8s-lan-party-writeup.md)
-  * [EKS Cluster Games](writeups/wiz-security-challenges/eks-cluster-games.md)
+  * [EKS Cluster Games Writeup](writeups/wiz-security-challenges/eks-cluster-games-writeup.md)
   * [Prompt Airlines Writeup](writeups/wiz-security-challenges/prompt-airlines-writeup.md)
 
 ## Misc
