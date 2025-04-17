@@ -36,4 +36,5 @@
 
 ## Misc
 
+* [Paul Kadali](misc/paul-kadali.md)
 * [Redirection](redirection.md)
